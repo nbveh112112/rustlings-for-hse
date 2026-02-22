@@ -1,4 +1,5 @@
+// TODO: Add some function with the name `call_me` without arguments or a return value.
+
 fn main() {
-    // DON'T EDIT THIS SOLUTION FILE!
-    // It will be automatically filled after you finish the exercise.
+    call_me(); // Don't change this line
 }
